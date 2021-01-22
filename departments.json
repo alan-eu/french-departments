@@ -1,0 +1,406 @@
+{
+    "1": {
+      "name": "Ain",
+      "nameWithPreposition": "dans l’Ain"
+    },
+    "2": {
+      "name": "Aisne",
+      "nameWithPreposition": "dans l’Aisne"
+    },
+    "3": {
+      "name": "Allier",
+      "nameWithPreposition": "dans l’Allier"
+    },
+    "4": {
+      "name": "Alpes-de-Haute-Provence",
+      "nameWithPreposition": "dans les Alpes-de-Haute-Provence"
+    },
+    "5": {
+      "name": "Hautes-Alpes",
+      "nameWithPreposition": "dans les Hautes-Alpes"
+    },
+    "6": {
+      "name": "Alpes-Maritimes",
+      "nameWithPreposition": "dans les Alpes-Maritimes"
+    },
+    "7": {
+      "name": "Ardèche",
+      "nameWithPreposition": "en Ardèche"
+    },
+    "8": {
+      "name": "Ardennes",
+      "nameWithPreposition": "dans les Ardennes"
+    },
+    "9": {
+      "name": "Ariège",
+      "nameWithPreposition": "en Ariège"
+    },
+    "10": {
+      "name": "Aube",
+      "nameWithPreposition": "dans l'Aube"
+    },
+    "11": {
+      "name": "Aude",
+      "nameWithPreposition": "dans l’Aude"
+    },
+    "12": {
+      "name": "Aveyron",
+      "nameWithPreposition": "dans l’Averyron"
+    },
+    "13": {
+      "name": "Bouches-du-Rhône",
+      "nameWithPreposition": "dans les Bouches-du-Rhône"
+    },
+    "14": {
+      "name": "Calvados",
+      "nameWithPreposition": "dans le Calvados"
+    },
+    "15": {
+      "name": "Cantal",
+      "nameWithPreposition": "dans le Cantal"
+    },
+    "16": {
+      "name": "Charente",
+      "nameWithPreposition": "dans la Charente"
+    },
+    "17": {
+      "name": "Charente-Maritime",
+      "nameWithPreposition": "dans la Charente-Maritime"
+    },
+    "18": {
+      "name": "Cher",
+      "nameWithPreposition": "dans le Cher"
+    },
+    "19": {
+      "name": "Corrèze",
+      "nameWithPreposition": "en Corrèze"
+    },
+    "21": {
+      "name": "Côte-d'Or",
+      "nameWithPreposition": "en Côte-d'Or"
+    },
+    "22": {
+      "name": "Côtes-d'Armor",
+      "nameWithPreposition": "dans les Côtes-d'Armor"
+    },
+    "23": {
+      "name": "Creuse",
+      "nameWithPreposition": "dans la Creuse"
+    },
+    "24": {
+      "name": "Dordogne",
+      "nameWithPreposition": "en Dordogne"
+    },
+    "25": {
+      "name": "Doubs",
+      "nameWithPreposition": "dans le Doubs"
+    },
+    "26": {
+      "name": "Drôme",
+      "nameWithPreposition": "dans la Drôme"
+    },
+    "27": {
+      "name": "Eure",
+      "nameWithPreposition": "en Eure"
+    },
+    "28": {
+      "name": "Eure-et-Loire",
+      "nameWithPreposition": "en Eure-et-Loir"
+    },
+    "29": {
+      "name": "Finistère",
+      "nameWithPreposition": "dans le Finistère"
+    },
+    "30": {
+      "name": "Gard",
+      "nameWithPreposition": "dans le Gard"
+    },
+    "31": {
+      "name": "Haute-Garonne",
+      "nameWithPreposition": "en Haute-Garonne"
+    },
+    "32": {
+      "name": "Gers",
+      "nameWithPreposition": "dans le Gers"
+    },
+    "33": {
+      "name": "Gironde",
+      "nameWithPreposition": "en Gironde"
+    },
+    "34": {
+      "name": "Hérault",
+      "nameWithPreposition": "dans l’Hérault"
+    },
+    "35": {
+      "name": "Ille-et-Vilaine",
+      "nameWithPreposition": "en Ille-et-Vilaine"
+    },
+    "36": {
+      "name": "Indre",
+      "nameWithPreposition": "dans l’Indre"
+    },
+    "37": {
+      "name": "Indre-et-Loire",
+      "nameWithPreposition": "en Indre-et-Loire"
+    },
+    "38": {
+      "name": "Isère",
+      "nameWithPreposition": "en Isère"
+    },
+    "39": {
+      "name": "Jura",
+      "nameWithPreposition": "dans le Jura"
+    },
+    "40": {
+      "name": "Landes",
+      "nameWithPreposition": "dans les Landes"
+    },
+    "41": {
+      "name": "Loir-et-Cher",
+      "nameWithPreposition": "dans le Loir-et-Cher"
+    },
+    "42": {
+      "name": "Loire",
+      "nameWithPreposition": "dans la Loire"
+    },
+    "43": {
+      "name": "Haute-Loire",
+      "nameWithPreposition": "en Haute-Loire"
+    },
+    "44": {
+      "name": "Loire-Atlantique",
+      "nameWithPreposition": "en Loire-Atlantique"
+    },
+    "45": {
+      "name": "Loiret",
+      "nameWithPreposition": "dans le Loiret"
+    },
+    "46": {
+      "name": "Lot",
+      "nameWithPreposition": "dans le Lot"
+    },
+    "47": {
+      "name": "Lot-et-Garonne",
+      "nameWithPreposition": "dans le Lot-et-Garonne"
+    },
+    "48": {
+      "name": "Lozère",
+      "nameWithPreposition": "en Lozère"
+    },
+    "49": {
+      "name": "Maine-et-Loire",
+      "nameWithPreposition": "dans le Maine-et-Loire"
+    },
+    "50": {
+      "name": "Manche",
+      "nameWithPreposition": "dans la Manche"
+    },
+    "51": {
+      "name": "Marne",
+      "nameWithPreposition": "dans la Marne"
+    },
+    "52": {
+      "name": "Haute-Marne",
+      "nameWithPreposition": "en Haute-Marne"
+    },
+    "53": {
+      "name": "Mayenne",
+      "nameWithPreposition": "dans la Mayenne"
+    },
+    "54": {
+      "name": "Meurthe-et-Moselle",
+      "nameWithPreposition": "en Meurthe-et-Moselle"
+    },
+    "55": {
+      "name": "Meuse",
+      "nameWithPreposition": "dans la Meuse"
+    },
+    "56": {
+      "name": "Morbihan",
+      "nameWithPreposition": "dans le Morbihan"
+    },
+    "57": {
+      "name": "Moselle",
+      "nameWithPreposition": "en Moselle"
+    },
+    "58": {
+      "name": "Nièvre",
+      "nameWithPreposition": "dans la Nièvre"
+    },
+    "59": {
+      "name": "Nord",
+      "nameWithPreposition": "dans le Nord"
+    },
+    "60": {
+      "name": "Oise",
+      "nameWithPreposition": "dans l’Oise"
+    },
+    "61": {
+      "name": "Orne",
+      "nameWithPreposition": "dans l’Orne"
+    },
+    "62": {
+      "name": "Pas-de-Calais",
+      "nameWithPreposition": "dans le Pas-de-Calais"
+    },
+    "63": {
+      "name": "Puy-de-Dôme",
+      "nameWithPreposition": "dans le Puy-de-Dôme"
+    },
+    "64": {
+      "name": "Pyrénées-Atlantiques",
+      "nameWithPreposition": "dans les Pyrénées-Atlantiques"
+    },
+    "65": {
+      "name": "Hautes-Pyrénées",
+      "nameWithPreposition": "dans les Hautes-Pyrénées"
+    },
+    "66": {
+      "name": "Pyrénées-Orientales",
+      "nameWithPreposition": "dans les Pyrénées-Orientales"
+    },
+    "67": {
+      "name": "Bas-Rhin",
+      "nameWithPreposition": "dans le Bas-Rhin"
+    },
+    "68": {
+      "name": "Haut-Rhin",
+      "nameWithPreposition": "dans le Haut-Rhin"
+    },
+    "69": {
+      "name": "Rhône",
+      "nameWithPreposition": "dans le Rhône"
+    },
+    "70": {
+      "name": "Haute-Saône",
+      "nameWithPreposition": "dans la Haute-Saône"
+    },
+    "71": {
+      "name": "Saône-et-Loire",
+      "nameWithPreposition": "en Saône-et-Loire"
+    },
+    "72": {
+      "name": "Sarthe",
+      "nameWithPreposition": "dans la Sarthe"
+    },
+    "73": {
+      "name": "Savoie",
+      "nameWithPreposition": "en Savoie"
+    },
+    "74": {
+      "name": "Haute-Savoie",
+      "nameWithPreposition": "en Haute-Savoie"
+    },
+    "75": {
+      "name": "Paris",
+      "nameWithPreposition": "à Paris"
+    },
+    "76": {
+      "name": "Seine-Maritime",
+      "nameWithPreposition": "en Seine-Maritime"
+    },
+    "77": {
+      "name": "Seine-et-Marne",
+      "nameWithPreposition": "en Seine-et-Marne"
+    },
+    "78": {
+      "name": "Yvelines",
+      "nameWithPreposition": "dans les Yvelines"
+    },
+    "79": {
+      "name": "Deux-Sèvres",
+      "nameWithPreposition": "dans les Deux-Sèvres"
+    },
+    "80": {
+      "name": "Somme",
+      "nameWithPreposition": "dans la Somme"
+    },
+    "81": {
+      "name": "Tarn",
+      "nameWithPreposition": "dans le Tarn"
+    },
+    "82": {
+      "name": "Tarn-et-Garonne",
+      "nameWithPreposition": "dans le Tarn-et-Garonne"
+    },
+    "83": {
+      "name": "Var",
+      "nameWithPreposition": "dans le Var"
+    },
+    "84": {
+      "name": "Vaucluse",
+      "nameWithPreposition": "en Vaucluse"
+    },
+    "85": {
+      "name": "Vendée",
+      "nameWithPreposition": "en Vendée"
+    },
+    "86": {
+      "name": "Vienne",
+      "nameWithPreposition": "dans la Vienne"
+    },
+    "87": {
+      "name": "Haute-Vienne",
+      "nameWithPreposition": "dans la Haute-Vienne"
+    },
+    "88": {
+      "name": "Vosges",
+      "nameWithPreposition": "dans les Vosges"
+    },
+    "89": {
+      "name": "Yonne",
+      "nameWithPreposition": "dans l’Yonne"
+    },
+    "90": {
+      "name": "Territoire de Belfort",
+      "nameWithPreposition": "dans le Territoire de Belfort"
+    },
+    "91": {
+      "name": "Essonne",
+      "nameWithPreposition": "en Essonne"
+    },
+    "92": {
+      "name": "Hauts-de-Seine",
+      "nameWithPreposition": "dans les Hauts-de-Seine"
+    },
+    "93": {
+      "name": "Seine-Saint-Denis",
+      "nameWithPreposition": "en Seine-Saint-Denis"
+    },
+    "94": {
+      "name": "Val-de-Marne",
+      "nameWithPreposition": "dans le Val-de-Marne"
+    },
+    "95": {
+      "name": "Val-d'Oise",
+      "nameWithPreposition": "dans le Val-d'Oise"
+    },
+    "971": {
+      "name": "Guadeloupe",
+      "nameWithPreposition": "en Guadeloupe"
+    },
+    "972": {
+      "name": "Martinique",
+      "nameWithPreposition": "en Martinique"
+    },
+    "973": {
+      "name": "Guyane",
+      "nameWithPreposition": "en Guyane"
+    },
+    "974": {
+      "name": "La Réunion",
+      "nameWithPreposition": "à La Réunion"
+    },
+    "976": {
+      "name": "Mayotte",
+      "nameWithPreposition": "à Mayotte"
+    },
+    "2A": {
+      "name": "Corse-du-Sud",
+      "nameWithPreposition": "en Corse-du-Sud"
+    },
+    "2B": {
+      "name": "Haute-Corse",
+      "nameWithPreposition": "en Haute-Corse"
+    }
+  }
