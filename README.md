@@ -1,6 +1,6 @@
 # French departements (code, name, preposition)
 
-This is a list of all [French departments](https://en.wikipedia.org/wiki/Departments_of_France) which includes **their prépositions**, name, and number.
+This is a list of all [French departments](https://en.wikipedia.org/wiki/Departments_of_France) which includes **their prepositions**, name, and number.
 
 It allows for easier inclusion in sentences like "Il fait beau *dans le Val-de-Marne*".
 
